@@ -88,8 +88,8 @@ return [
     |--------------------------------------------------------------------------
     |
     | Defines the default 'Translation' class namespace. For example, if
-    | you want to use App\Translations\CountryTranslation instead of App\CountryTranslation
-    | set this to 'App\Translations'.
+    | you want to use app\Translations\CountryTranslation instead of app\CountryTranslation
+    | set this to 'app\Translations'.
     |
     */
     'translation_model_namespace' => null,
